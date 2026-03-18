@@ -47,6 +47,7 @@ http://baseballanalysts.com/index.rdf
 http://beachburg.blogspot.com/atom.xml
 http://bearlamp.com.au/feed
 http://behindthepixels.io/feed.xml
+https://benandkayla.com/feed
 http://benjaminrosshoffman.com/feed
 http://benyu.org/feed
 http://bholley.net/feed.xml
